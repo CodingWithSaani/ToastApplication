@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastApplication</string>
+    <string name="click_for_magic">CLICK FOR MAGIC</string>
+    <string name="custom_toast">Custom Toast</string>
+</resources>
